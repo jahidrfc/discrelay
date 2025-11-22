@@ -1,7 +1,8 @@
 # Discord Bot Demo Project
 
+- [Railway public URL](https://discrelay-production.up.railway.app/)
 ## 🚀 Getting Started
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/bun-nextjs-starter)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/JR0zn-?referralCode=AtH7Bb&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ### 1. Create a New Discord Bot
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications?new_application=true).  
